@@ -4,3 +4,4 @@
 # Except notebooks
 !*.ipynb
 !.gitignore
+!requirements.txt
