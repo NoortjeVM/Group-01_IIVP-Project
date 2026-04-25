@@ -5,3 +5,4 @@
 !*.ipynb
 !.gitignore
 !requirements.txt
+train_gray/
